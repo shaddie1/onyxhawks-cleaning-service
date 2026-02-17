@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 320" fill="none">
+  <!-- Hawk silhouette -->
+  <g transform="translate(20, 10) scale(0.9)">
+    <!-- Body -->
+    <path d="M120 40 C100 35, 70 50, 55 80 C45 100, 40 120, 50 140 C55 150, 65 158, 80 160 L90 155 C75 150, 65 140, 62 125 C58 108, 65 88, 80 72 C90 62, 105 55, 120 55 Z" fill="#d4a843"/>
+    <!-- Left wing -->
+    <path d="M55 80 C40 65, 20 55, 5 60 C-5 63, -8 72, 2 78 C15 85, 35 82, 50 85 C42 78, 48 75, 55 80 Z" fill="#d4a843"/>
+    <path d="M50 90 C30 80, 10 78, -5 85 C-12 88, -10 95, 0 95 C15 95, 32 90, 45 92 Z" fill="#d4a843"/>
+    <path d="M48 100 C28 95, 10 96, 0 103 C-5 107, -2 112, 8 110 C20 107, 35 102, 48 104 Z" fill="#d4a843"/>
+    <!-- Right wing (extended) -->
+    <path d="M120 45 C145 30, 180 15, 220 8 C250 3, 280 5, 300 15 C310 20, 305 28, 290 25 C265 18, 235 20, 205 28 C175 36, 148 50, 130 60 Z" fill="#d4a843"/>
+    <path d="M125 55 C155 42, 195 30, 235 25 C260 22, 285 25, 295 32 C300 36, 295 42, 280 38 C260 32, 235 33, 210 40 C180 48, 155 60, 135 68 Z" fill="#d4a843"/>
+    <path d="M128 65 C155 55, 190 45, 225 42 C248 40, 268 44, 275 50 C278 54, 273 58, 260 55 C245 50, 225 50, 200 56 C175 62, 152 72, 135 78 Z" fill="#d4a843"/>
+    <!-- Tail feathers -->
+    <path d="M80 160 C70 170, 55 185, 45 200 C40 208, 42 215, 50 212 C60 206, 72 192, 82 178 C88 170, 90 162, 85 158 Z" fill="#d4a843"/>
+    <path d="M85 158 C78 172, 68 190, 62 205 C58 214, 62 220, 68 216 C76 208, 85 192, 92 175 C96 166, 94 158, 90 156 Z" fill="#d4a843"/>
+    <path d="M92 156 C88 170, 82 188, 80 202 C78 212, 82 218, 88 214 C94 206, 98 188, 100 172 C101 163, 98 156, 95 155 Z" fill="#d4a843"/>
+    <!-- Head -->
+    <path d="M120 40 C125 35, 132 32, 140 34 C148 36, 150 42, 145 48 C140 52, 132 52, 125 50 C120 48, 118 44, 120 40 Z" fill="#d4a843"/>
+    <!-- Eye -->
+    <circle cx="134" cy="41" r="2.5" fill="#0d0d1a"/>
+    <!-- Beak -->
+    <path d="M145 40 C152 38, 158 40, 155 44 C152 47, 146 46, 145 43 Z" fill="#b8922e"/>
+  </g>
+
+  <!-- ONYXHAWK text -->
+  <text x="22" y="230" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="56" font-weight="800" fill="#d4a843" letter-spacing="4">ONYXHAWK</text>
+
+  <!-- CLEANING SERVICE text -->
+  <text x="24" y="272" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="30" font-weight="500" fill="#f5f5f5" letter-spacing="6">CLEANING SERVICE</text>
+</svg>
